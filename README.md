@@ -10,4 +10,14 @@ Note: My Laptop is a Apple Macbook with Apple Silicon (M2) with 8 GB RAM and Seq
    ```
    sqlite3 --version
    ```
-4. 
+
+## Setup Test data
+1. Open SQLite DB from commandline. Open a Terminal window and execute below command.
+```
+   sqlite3 enterprise_data.db
+```
+2. Create Table and Insert test data using commands from TestData.txt
+3. Exit Database 
+```
+   .exit
+```
