@@ -11,7 +11,7 @@
 7. Select Run All Menu option as shown below picture.
 ![Run All Menu Option](readme-pics/RunAllMenuOption.png)
 8. You will see the Chatbot ready to take questions as shown below.
-![ChatBot](readme-pics/ChatBot1.png)
+![ChatBot](readme-pics/ChatBot.png)
 9. You may ask this question to find the answer that is pulled from the SQLite database.
 ```
 What's the Q3 2025 revenue at Phoenix  branch? 
